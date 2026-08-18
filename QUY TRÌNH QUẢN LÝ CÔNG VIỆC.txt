@@ -1,0 +1,9 @@
+[QUY TRÌNH QUẢN LÝ CÔNG VIỆC]
+1. Tác vụ hàng ngày:
+   - Kiểm tra email và danh sách công việc tồn đọng lúc 8:30 sáng.
+   - Phân loại công việc theo mức độ: Mức 1 (Gấp & Quan trọng), Mức 2 (Quan trọng), Mức 3 (Thường).
+   - Cập nhật tiến độ vào bảng theo dõi trước 17:00.
+
+2. Yêu cầu báo cáo:
+   - Tóm tắt ngắn gọn các việc đã hoàn thành.
+   - Nêu rõ các vấn đề còn vướng mắc và phương án xử lý.
